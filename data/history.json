@@ -1,0 +1,258 @@
+[
+  {
+    "timestamp": "2026-01-10T21:08:43",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 48225,
+    "chain_level": 23,
+    "chain_xp": 1167500
+  },
+  {
+    "timestamp": "2026-01-11T00:36:18",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 52456,
+    "chain_level": 23,
+    "chain_xp": 1379078
+  },
+  {
+    "timestamp": "2026-01-11T11:24:43",
+    "aspect": "Gadget",
+    "aspect_level": 12,
+    "aspect_xp": 26689,
+    "chain_level": 23,
+    "chain_xp": 1469966
+  },
+  {
+    "timestamp": "2026-01-11T20:01:07",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 58560,
+    "chain_level": 23,
+    "chain_xp": 1834425
+  },
+  {
+    "timestamp": "2026-01-12T00:01:06",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 70120,
+    "chain_level": 23,
+    "chain_xp": 2421219
+  },
+  {
+    "timestamp": "2026-01-15T13:14:53",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 72620,
+    "chain_level": 23,
+    "chain_xp": 2726802
+  },
+  {
+    "timestamp": "2026-01-16T18:00:48",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 80576,
+    "chain_level": 23,
+    "chain_xp": 3151723
+  },
+  {
+    "timestamp": "2026-01-16T21:14:29",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 82822,
+    "chain_level": 23,
+    "chain_xp": 3262180
+  },
+  {
+    "timestamp": "2026-01-17T12:24:46",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 87323,
+    "chain_level": 23,
+    "chain_xp": 3487206
+  },
+  {
+    "timestamp": "2026-01-22T11:05:19",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 95338,
+    "chain_level": 23,
+    "chain_xp": 3896184
+  },
+  {
+    "timestamp": "2026-01-22T14:37:24",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 100041,
+    "chain_level": 23,
+    "chain_xp": 4129478
+  },
+  {
+    "timestamp": "2026-01-22T22:57:05",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 101228,
+    "chain_level": 23,
+    "chain_xp": 4191071
+  },
+  {
+    "timestamp": "2026-01-23T00:44:16",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 105025,
+    "chain_level": 23,
+    "chain_xp": 4380884
+  },
+  {
+    "timestamp": "2026-01-29T16:57:59",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 118857,
+    "chain_level": 23,
+    "chain_xp": 5086486
+  },
+  {
+    "timestamp": "2026-01-29T20:18:33",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 118857,
+    "chain_level": 23,
+    "chain_xp": 5086486
+  },
+  {
+    "timestamp": "2026-01-30T00:17:53",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 125934,
+    "chain_level": 23,
+    "chain_xp": 5444053
+  },
+  {
+    "timestamp": "2026-01-30T14:37:57",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 133794,
+    "chain_level": 23,
+    "chain_xp": 5881706
+  },
+  {
+    "timestamp": "2026-01-31T01:59:12",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 137535,
+    "chain_level": 24,
+    "chain_xp": 0
+  },
+  {
+    "timestamp": "2026-01-31T01:59:16",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 137535,
+    "chain_level": 24,
+    "chain_xp": 69044
+  },
+  {
+    "timestamp": "2026-02-03T08:38:30",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 139045,
+    "chain_level": 24,
+    "chain_xp": 144537
+  },
+  {
+    "timestamp": "2026-02-05T13:46:33",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 146101,
+    "chain_level": 24,
+    "chain_xp": 495853
+  },
+  {
+    "timestamp": "2026-02-05T20:58:20",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 148728,
+    "chain_level": 24,
+    "chain_xp": 627219
+  },
+  {
+    "timestamp": "2026-02-05T22:35:58",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 151747,
+    "chain_level": 24,
+    "chain_xp": 778340
+  },
+  {
+    "timestamp": "2026-02-06T17:15:16",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 155579,
+    "chain_level": 24,
+    "chain_xp": 969920
+  },
+  {
+    "timestamp": "2026-02-06T18:44:28",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 159353,
+    "chain_level": 24,
+    "chain_xp": 1157334
+  },
+  {
+    "timestamp": "2026-02-06T23:01:01",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 162777,
+    "chain_level": 24,
+    "chain_xp": 1339892
+  },
+  {
+    "timestamp": "2026-02-12T10:43:01",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 164891,
+    "chain_level": 24,
+    "chain_xp": 1444169
+  },
+  {
+    "timestamp": "2026-02-14T14:55:19",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 175695,
+    "chain_level": 24,
+    "chain_xp": 1983235
+  },
+  {
+    "timestamp": "2026-02-15T00:37:28",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 185157,
+    "chain_level": 24,
+    "chain_xp": 2458966
+  },
+  {
+    "timestamp": "2026-02-16T10:06:10",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 185824,
+    "chain_level": 24,
+    "chain_xp": 2492305
+  },
+  {
+    "timestamp": "2026-02-17T00:09:32",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 192607,
+    "chain_level": 24,
+    "chain_xp": 2832767
+  },
+  {
+    "timestamp": "2026-02-19T01:33:19",
+    "aspect": "Command",
+    "aspect_level": 14,
+    "aspect_xp": 198020,
+    "chain_level": 24,
+    "chain_xp": 3111056
+  }
+]
